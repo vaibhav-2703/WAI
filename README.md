@@ -1,4 +1,4 @@
-<h1 id="realtime-face-recognition-system">RealTime Face Recognition System</h1>
+<h1 id="wai">WhoAmI (WAI) </h1>
 <p>A high-accuracy, Python-based face recognition system designed to recognize faces in real time using webcam input. Achieves 92%+ accuracy with efficient algorithms, requiring minimal computational resources and no additional hardware like IR sensors.</p>
 <p>🚀 Features</p>
 <pre><code>🎥 Real-Time Recognition: Detect and recognize faces live using a webcam.
